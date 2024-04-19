@@ -1,0 +1,33 @@
+.subscribe {
+  margin-bottom: 40px;
+}
+
+.subscribe-style {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background: #f4f6fa;
+  border-radius: 20px;
+  padding: 10px 50px;
+}
+
+.subscribe-content {
+  max-width: 530px;
+}
+
+.subs-text {
+  color: #253d4e;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  margin-bottom: 20px;
+}
+
+.subs-par {
+  color: #253d4e;
+  margin-bottom: 46px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+}
